@@ -1,0 +1,2 @@
+[console_scripts]
+s-tui = s_tui.s_tui:main
